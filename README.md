@@ -7,7 +7,7 @@ we create our mini 'search engine'using python based on our midterm exam. we're 
 first, you need to clone this repo and create **virtual environement**.
 
 ```bash
-git clone https://github.com/evanalifian/mini-information-retrieval.git
+git clone https://github.com/muhammadalimurtadho05/Information-retrieval.git
 python -m venv env
 ```
 

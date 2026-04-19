@@ -22,3 +22,4 @@ class InvertedIndex:
                     df += 1
 
             self.corpus_table[term]["dft"] = df
+
